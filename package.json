@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://<ваш_логин_на_github>.github.io/<название_репозитория>",
+  "homepage": "https://melmox170>.github.io/<shopux>",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
